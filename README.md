@@ -29,7 +29,6 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
    ```bash
   projeto-poo-php
    ```
-   ```
 ---
 ## 📂 Estrutura do Repositório
 
