@@ -27,7 +27,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 2. **Abra o projeto em sua IDE favorita**.
 3. **Compile e execute** os arquivos `.web` conforme necessário.
    ```bash
-  projeto-poo-php
+   projeto-poo-php/
    ```
 ---
 ## 📂 Estrutura do Repositório
