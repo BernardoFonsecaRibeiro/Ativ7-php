@@ -22,7 +22,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/BernardoFonsecaRibeiro/Exercicio6-php
+   git clone https://github.com/BernardoFonsecaRibeiro/Ativ7-php
    ```
 2. **Abra o projeto em sua IDE favorita**.
 3. **Compile e execute** os arquivos `.web` conforme necessário.
